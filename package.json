@@ -4,8 +4,8 @@
   "description": "Amazon scraper için CORS proxy sunucusu",
   "main": "api/proxy.js",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build"
+    "build": "echo 'No build step required'",
+    "dev": "vercel dev"
   },
   "keywords": ["cors", "proxy", "amazon", "scraper"],
   "author": "pandakafa",
